@@ -1,0 +1,16 @@
+﻿The takeaway here is that HTML is semantic when the elements we use to represent our content reinforce the meaning of that content. For instance, when we use a <p> element to represent a paragraph of text, we're using semantic HTML. When you're writing HTML, strive to use elements that communicate the meaning of your document's structure. That means using elements like <header>, <nav>, <main>, <section>, <footer>, and others when appropriate.
+
+This brings us to the final point in this assignment: familiarizing yourself with available HTML elements. You definitely don't need to memorize all the elements and their attributes, but it is worth spending a few minutes getting a sense of what's available:
+
+(https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+For now, in this early stage in your learning, as you're first setting your coding habits, be sure to incorporate the patterns we've covered here:
+
+    • Always use structured, semantic HTML
+    • Always set the lang attribute on the opening HTML tag
+    • Set the role attribute where appropriate, especially for sectioning elements:
+        ◦ <header role="banner"> for site-wide headers
+        ◦ <nav role="navigation"> for navigation elements
+        ◦ <main role="main"> for main elements
+        ◦ <footer role="contentinfo"> for your site's footer
+    • Remember, no matter how advanced a project is, if you start with good HTML, you can make a better web for everyone.

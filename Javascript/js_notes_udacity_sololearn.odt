@@ -1,0 +1,8 @@
+﻿String + Number defaults to String
+Boolean + Number defaults to Number
+
+Conditional (Ternary) Operator
+var isAdult = (age < 18) ? “Too young” : “Old enough”
+    • if the variable age is less than 18 
+        ◦ then the variable isAdult is assigned the string “Too young”
+        ◦ otherwise takes the value “Old enough”
